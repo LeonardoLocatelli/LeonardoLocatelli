@@ -28,14 +28,11 @@ I am learning
 
 ###
 I have experience with
+
 <br>
+
 <img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 
-
-
-
-
-
-
-
-
+<br>
+<br>
+OBS: Under construction!
