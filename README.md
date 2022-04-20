@@ -1,11 +1,6 @@
 ## Hello, my name is Leonardo Locatelli ! 
 ### Welcome to my profile GitHub 👋
 <br>
-
-
-
-  <a href="https://github.com/LeonardoLocatelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLocatelli&show_icons=true&include_all_commits=true&count_private=true"/>
 <br>
 <a href="https://www.linkedin.com/in/leonardo-locatelli-030914210/">
   <img align="left" alt="Leonardo Locatelli | Linkedin" width="40px" src="https://raw.github.com/marcelo-marcal/marcelo-marcal/main/imgs/linkedin.png" />
@@ -43,6 +38,10 @@ I have experience with
 OBS: Under construction!
 <br>
   
-<a href="https://www.linkedin.com/in/Leonardo-Locatelli-44752b16b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/LeonardoLocatelli/count.svg" />
+</p>
+ 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
