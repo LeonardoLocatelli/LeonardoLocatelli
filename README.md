@@ -32,14 +32,12 @@ I have experience with
 <br>
 
 <img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-
-
-
+<br>
+<br>
+OBS: Under construction!
+<br>
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)v>
 
-<br>
-<br>
-OBS: Under construction!
