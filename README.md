@@ -12,7 +12,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on DataIntegra
+- 🔭 I’m currently working on TI - Farmácias São João
 - 🌱 I’m currently learning PL/SQL + NODE.JS
 - 🤔 I’m looking for help with NODE.JS
 - 📫 How to reach me: (54) 98122-5886
