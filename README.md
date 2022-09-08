@@ -20,7 +20,6 @@
 I am learning
 
 <img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Flutter/Flutter-original.svg" />
 <img align="left" alt="Leonardo Locatelli | Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
